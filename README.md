@@ -14,6 +14,6 @@ My personal record is a score of 512.
 - Java 10
 
 #### Known bugs:
-- Pressing two keys *very* quickly sometimes only registers the first key. Indeed, this is a feature.
+- Pressing multiple keys in the same frame can cause unexpected behavior. Indeed, this is a feature.
 - White barriers appear during gameplay. It is possible for the red food to get trapped behind barriers. Again, intended behavior.
-- Snake is just off-center when drawn. Or the barriers/food are. Either way, it is no big deal.
+- Snake dots are *just* off-center when drawn. Or the barriers/food are. Either way, it is no big deal.
